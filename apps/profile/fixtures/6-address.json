@@ -1,0 +1,32 @@
+[
+{
+    "model": "profile.address",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-27T20:26:50.935Z",
+        "created_at": "2023-02-27T20:26:50.935Z",
+        "deleted_at": null,
+        "address_line1": "Some warehouse 1",
+        "address_line2": "Wh 1 address line 2",
+        "is_verified": true,
+        "area": 1,
+        "latitude": "",
+        "longitude": ""
+    }
+},
+{
+    "model": "profile.address",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-27T20:49:42.197Z",
+        "created_at": "2023-02-27T20:49:42.197Z",
+        "deleted_at": null,
+        "address_line1": "Some WH 2",
+        "address_line2": "WH2 Addressline 2",
+        "is_verified": false,
+        "area": 6,
+        "latitude": "",
+        "longitude": ""
+    }
+}
+]

@@ -1,0 +1,762 @@
+[
+{
+    "model": "common.province",
+    "pk": 1,
+    "fields": {
+        "name": "Agra",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 2,
+    "fields": {
+        "name": "Agra",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 3,
+    "fields": {
+        "name": "Aligarh",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 4,
+    "fields": {
+        "name": "PrayagRaj",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 5,
+    "fields": {
+        "name": "Ambedkar Nagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 6,
+    "fields": {
+        "name": "Amroha",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 7,
+    "fields": {
+        "name": "Auraiya",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 8,
+    "fields": {
+        "name": "Azamgarh",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 9,
+    "fields": {
+        "name": "Badaun",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 10,
+    "fields": {
+        "name": "Bahraich",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 11,
+    "fields": {
+        "name": "Ballia",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 12,
+    "fields": {
+        "name": "Balrampur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 13,
+    "fields": {
+        "name": "Banda District",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 14,
+    "fields": {
+        "name": "Barabanki",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 15,
+    "fields": {
+        "name": "Bareilly",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 16,
+    "fields": {
+        "name": "Basti",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 17,
+    "fields": {
+        "name": "Bijnor",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 18,
+    "fields": {
+        "name": "Bulandshahr",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 19,
+    "fields": {
+        "name": "Chandauli(Varanasi Dehat)",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 20,
+    "fields": {
+        "name": "Chitrakoot",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 21,
+    "fields": {
+        "name": "Deoria",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 22,
+    "fields": {
+        "name": "Etah",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 23,
+    "fields": {
+        "name": "Etawah",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 24,
+    "fields": {
+        "name": "Faizabad",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 25,
+    "fields": {
+        "name": "Farrukhabad",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 26,
+    "fields": {
+        "name": "Fatehpur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 27,
+    "fields": {
+        "name": "Firozabad",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 28,
+    "fields": {
+        "name": "Gautam Buddha Nagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 29,
+    "fields": {
+        "name": "Ghaziabad",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 30,
+    "fields": {
+        "name": "Ghazipur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 31,
+    "fields": {
+        "name": "Gonda",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 32,
+    "fields": {
+        "name": "Gorakhpur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 33,
+    "fields": {
+        "name": "Hamirpur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 34,
+    "fields": {
+        "name": "Hapur District",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 35,
+    "fields": {
+        "name": "Hardoi",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 36,
+    "fields": {
+        "name": "Hathras",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 37,
+    "fields": {
+        "name": "Jaunpur District",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 38,
+    "fields": {
+        "name": "Jhansi",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 39,
+    "fields": {
+        "name": "Kannauj",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 40,
+    "fields": {
+        "name": "Kanpur Dehat",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 41,
+    "fields": {
+        "name": "Kanpur Nagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 42,
+    "fields": {
+        "name": "Kasganj",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 43,
+    "fields": {
+        "name": "Kaushambi",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 44,
+    "fields": {
+        "name": "Kushinagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 45,
+    "fields": {
+        "name": "Lakhimpur Kheri",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 46,
+    "fields": {
+        "name": "Lalitpur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 47,
+    "fields": {
+        "name": "Lucknow",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 48,
+    "fields": {
+        "name": "Maharajganj",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 49,
+    "fields": {
+        "name": "Mahoba",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 50,
+    "fields": {
+        "name": "Mainpuri",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 51,
+    "fields": {
+        "name": "Mathura",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 52,
+    "fields": {
+        "name": "Mau",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 53,
+    "fields": {
+        "name": "Meerut",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 54,
+    "fields": {
+        "name": "Mirzapur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 55,
+    "fields": {
+        "name": "Moradabad",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 56,
+    "fields": {
+        "name": "Muzaffarnagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 57,
+    "fields": {
+        "name": "Pilibhit",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 58,
+    "fields": {
+        "name": "Pratapgarh",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 59,
+    "fields": {
+        "name": "Rae Bareli",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 60,
+    "fields": {
+        "name": "Rampur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 61,
+    "fields": {
+        "name": "Saharanpur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 62,
+    "fields": {
+        "name": "Sant Kabir Nagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 63,
+    "fields": {
+        "name": "Sant Ravidas Nagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 64,
+    "fields": {
+        "name": "Sambhal",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 65,
+    "fields": {
+        "name": "Shahjahanpur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 66,
+    "fields": {
+        "name": "Shamli",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 67,
+    "fields": {
+        "name": "Shravasti",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 68,
+    "fields": {
+        "name": "Siddharthnagar",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 69,
+    "fields": {
+        "name": "Sitapur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 70,
+    "fields": {
+        "name": "Sonbhadra",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 71,
+    "fields": {
+        "name": "Sultanpur",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 72,
+    "fields": {
+        "name": "Unnao",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 73,
+    "fields": {
+        "name": "Varanasi (Kashi)",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 74,
+    "fields": {
+        "name": "Allahabad",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 75,
+    "fields": {
+        "name": "Amethi",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+},
+{
+    "model": "common.province",
+    "pk": 76,
+    "fields": {
+        "name": "Bagpat",
+        "code": "",
+        "country": 1,
+        "state": 30
+    }
+}
+]

@@ -1,0 +1,3707 @@
+[
+{
+    "model": "common.area",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.168Z",
+        "created_at": "2023-02-04T18:43:05.168Z",
+        "deleted_at": null,
+        "name": "32 Bn. pac",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.173Z",
+        "created_at": "2023-02-04T18:43:05.173Z",
+        "deleted_at": null,
+        "name": "A N l colony",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 3,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.175Z",
+        "created_at": "2023-02-04T18:43:05.175Z",
+        "deleted_at": null,
+        "name": "A P sabha",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 4,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.176Z",
+        "created_at": "2023-02-04T18:43:05.176Z",
+        "deleted_at": null,
+        "name": "Adampur Janubi",
+        "code": "",
+        "zip_code": "227308",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 5,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.177Z",
+        "created_at": "2023-02-04T18:43:05.178Z",
+        "deleted_at": null,
+        "name": "Adarsh Nagar",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 6,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.179Z",
+        "created_at": "2023-02-04T18:43:05.179Z",
+        "deleted_at": null,
+        "name": "Ain",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 7,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.180Z",
+        "created_at": "2023-02-04T18:43:05.180Z",
+        "deleted_at": null,
+        "name": "Aishbagh",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 8,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.181Z",
+        "created_at": "2023-02-04T18:43:05.181Z",
+        "deleted_at": null,
+        "name": "Akariakalan",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 9,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.183Z",
+        "created_at": "2023-02-04T18:43:05.183Z",
+        "deleted_at": null,
+        "name": "Alambagh",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 10,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.184Z",
+        "created_at": "2023-02-04T18:43:05.184Z",
+        "deleted_at": null,
+        "name": "Alamnagar",
+        "code": "",
+        "zip_code": "226017",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 11,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.185Z",
+        "created_at": "2023-02-04T18:43:05.185Z",
+        "deleted_at": null,
+        "name": "Aliganj",
+        "code": "",
+        "zip_code": "226024",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 12,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.187Z",
+        "created_at": "2023-02-04T18:43:05.187Z",
+        "deleted_at": null,
+        "name": "Aliganj Extension",
+        "code": "",
+        "zip_code": "226024",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 13,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.188Z",
+        "created_at": "2023-02-04T18:43:05.188Z",
+        "deleted_at": null,
+        "name": "Amaniganj",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 14,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.189Z",
+        "created_at": "2023-02-04T18:43:05.189Z",
+        "deleted_at": null,
+        "name": "Amausi",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 15,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.191Z",
+        "created_at": "2023-02-04T18:43:05.191Z",
+        "deleted_at": null,
+        "name": "Amausi Ad",
+        "code": "",
+        "zip_code": "226009",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 16,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.192Z",
+        "created_at": "2023-02-04T18:43:05.192Z",
+        "deleted_at": null,
+        "name": "Amberganj",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 17,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.193Z",
+        "created_at": "2023-02-04T18:43:05.193Z",
+        "deleted_at": null,
+        "name": "Amethi",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 18,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.195Z",
+        "created_at": "2023-02-04T18:43:05.195Z",
+        "deleted_at": null,
+        "name": "Amethia Salempur",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 19,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.196Z",
+        "created_at": "2023-02-04T18:43:05.196Z",
+        "deleted_at": null,
+        "name": "Aminabad Park",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 20,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.197Z",
+        "created_at": "2023-02-04T18:43:05.197Z",
+        "deleted_at": null,
+        "name": "Amraigaon",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 21,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.198Z",
+        "created_at": "2023-02-04T18:43:05.198Z",
+        "deleted_at": null,
+        "name": "Anandnagar",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 22,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.200Z",
+        "created_at": "2023-02-04T18:43:05.200Z",
+        "deleted_at": null,
+        "name": "Anaura Kalan",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 23,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.201Z",
+        "created_at": "2023-02-04T18:43:05.201Z",
+        "deleted_at": null,
+        "name": "Antagarhi",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 24,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.202Z",
+        "created_at": "2023-02-04T18:43:05.202Z",
+        "deleted_at": null,
+        "name": "Arjunganj",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 25,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.203Z",
+        "created_at": "2023-02-04T18:43:05.203Z",
+        "deleted_at": null,
+        "name": "Arjunpur",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 26,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.204Z",
+        "created_at": "2023-02-04T18:43:05.204Z",
+        "deleted_at": null,
+        "name": "Arya Nagar",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 27,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.206Z",
+        "created_at": "2023-02-04T18:43:05.206Z",
+        "deleted_at": null,
+        "name": "Asti",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 28,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.207Z",
+        "created_at": "2023-02-04T18:43:05.207Z",
+        "deleted_at": null,
+        "name": "Atari",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 29,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.208Z",
+        "created_at": "2023-02-04T18:43:05.208Z",
+        "deleted_at": null,
+        "name": "Ateswa",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 30,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.209Z",
+        "created_at": "2023-02-04T18:43:05.209Z",
+        "deleted_at": null,
+        "name": "Aurawan",
+        "code": "",
+        "zip_code": "227101",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 31,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.210Z",
+        "created_at": "2023-02-04T18:43:05.210Z",
+        "deleted_at": null,
+        "name": "Avas Vikas colony",
+        "code": "",
+        "zip_code": "226017",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 32,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.211Z",
+        "created_at": "2023-02-04T18:43:05.211Z",
+        "deleted_at": null,
+        "name": "B Hotel",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 33,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.213Z",
+        "created_at": "2023-02-04T18:43:05.213Z",
+        "deleted_at": null,
+        "name": "B R a university",
+        "code": "",
+        "zip_code": "226025",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 34,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.214Z",
+        "created_at": "2023-02-04T18:43:05.214Z",
+        "deleted_at": null,
+        "name": "Badiyan",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 35,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.215Z",
+        "created_at": "2023-02-04T18:43:05.215Z",
+        "deleted_at": null,
+        "name": "Bahargaon",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 36,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.216Z",
+        "created_at": "2023-02-04T18:43:05.216Z",
+        "deleted_at": null,
+        "name": "Bahrauli",
+        "code": "",
+        "zip_code": "227308",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 37,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.217Z",
+        "created_at": "2023-02-04T18:43:05.217Z",
+        "deleted_at": null,
+        "name": "Bahroo",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 38,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.218Z",
+        "created_at": "2023-02-04T18:43:05.218Z",
+        "deleted_at": null,
+        "name": "Bakkash",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 39,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.219Z",
+        "created_at": "2023-02-04T18:43:05.219Z",
+        "deleted_at": null,
+        "name": "Bakshi Ka talab",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 40,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.220Z",
+        "created_at": "2023-02-04T18:43:05.220Z",
+        "deleted_at": null,
+        "name": "Bani",
+        "code": "",
+        "zip_code": "227101",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 41,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.221Z",
+        "created_at": "2023-02-04T18:43:05.221Z",
+        "deleted_at": null,
+        "name": "Banthra",
+        "code": "",
+        "zip_code": "227101",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 42,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.222Z",
+        "created_at": "2023-02-04T18:43:05.222Z",
+        "deleted_at": null,
+        "name": "Baragaon",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 43,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.223Z",
+        "created_at": "2023-02-04T18:43:05.223Z",
+        "deleted_at": null,
+        "name": "Barauna",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 44,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.224Z",
+        "created_at": "2023-02-04T18:43:05.224Z",
+        "deleted_at": null,
+        "name": "Barawan Kalan",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 45,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.225Z",
+        "created_at": "2023-02-04T18:43:05.225Z",
+        "deleted_at": null,
+        "name": "Barha",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 46,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.226Z",
+        "created_at": "2023-02-04T18:43:05.226Z",
+        "deleted_at": null,
+        "name": "Barwalia",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 47,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.227Z",
+        "created_at": "2023-02-04T18:43:05.227Z",
+        "deleted_at": null,
+        "name": "Basha",
+        "code": "",
+        "zip_code": "226026",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 48,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.228Z",
+        "created_at": "2023-02-04T18:43:05.228Z",
+        "deleted_at": null,
+        "name": "Batha Sabauli",
+        "code": "",
+        "zip_code": "226021",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 49,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.229Z",
+        "created_at": "2023-02-04T18:43:05.229Z",
+        "deleted_at": null,
+        "name": "Baurumau",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 50,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.230Z",
+        "created_at": "2023-02-04T18:43:05.230Z",
+        "deleted_at": null,
+        "name": "Bazargaron",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 51,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.231Z",
+        "created_at": "2023-02-04T18:43:05.231Z",
+        "deleted_at": null,
+        "name": "Beerpur",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 52,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.232Z",
+        "created_at": "2023-02-04T18:43:05.232Z",
+        "deleted_at": null,
+        "name": "Begariamau",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 53,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.232Z",
+        "created_at": "2023-02-04T18:43:05.232Z",
+        "deleted_at": null,
+        "name": "Behta",
+        "code": "",
+        "zip_code": "226026",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 54,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.233Z",
+        "created_at": "2023-02-04T18:43:05.233Z",
+        "deleted_at": null,
+        "name": "Benti",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 55,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.234Z",
+        "created_at": "2023-02-04T18:43:05.234Z",
+        "deleted_at": null,
+        "name": "Bhadeswa",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 56,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.235Z",
+        "created_at": "2023-02-04T18:43:05.235Z",
+        "deleted_at": null,
+        "name": "Bhadrukh",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 57,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.236Z",
+        "created_at": "2023-02-04T18:43:05.236Z",
+        "deleted_at": null,
+        "name": "Bhadwana",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 58,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.237Z",
+        "created_at": "2023-02-04T18:43:05.237Z",
+        "deleted_at": null,
+        "name": "Bhagwantpur",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 59,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.237Z",
+        "created_at": "2023-02-04T18:43:05.237Z",
+        "deleted_at": null,
+        "name": "Bharwara",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 60,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.238Z",
+        "created_at": "2023-02-04T18:43:05.238Z",
+        "deleted_at": null,
+        "name": "Bhatgaon",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 61,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.239Z",
+        "created_at": "2023-02-04T18:43:05.239Z",
+        "deleted_at": null,
+        "name": "Bhauli",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 62,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.240Z",
+        "created_at": "2023-02-04T18:43:05.240Z",
+        "deleted_at": null,
+        "name": "Bhilampur",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 63,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.241Z",
+        "created_at": "2023-02-04T18:43:05.241Z",
+        "deleted_at": null,
+        "name": "Bibipur",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 64,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.242Z",
+        "created_at": "2023-02-04T18:43:05.242Z",
+        "deleted_at": null,
+        "name": "Bijnaur",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 65,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.243Z",
+        "created_at": "2023-02-04T18:43:05.243Z",
+        "deleted_at": null,
+        "name": "Birhana",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 66,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.243Z",
+        "created_at": "2023-02-04T18:43:05.244Z",
+        "deleted_at": null,
+        "name": "Blunt Square",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 67,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.245Z",
+        "created_at": "2023-02-04T18:43:05.245Z",
+        "deleted_at": null,
+        "name": "C B lines",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 68,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.245Z",
+        "created_at": "2023-02-04T18:43:05.245Z",
+        "deleted_at": null,
+        "name": "C E school",
+        "code": "",
+        "zip_code": "226012",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 69,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.246Z",
+        "created_at": "2023-02-04T18:43:05.246Z",
+        "deleted_at": null,
+        "name": "C&w work shop",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 70,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.247Z",
+        "created_at": "2023-02-04T18:43:05.247Z",
+        "deleted_at": null,
+        "name": "Canal Colony",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 71,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.248Z",
+        "created_at": "2023-02-04T18:43:05.248Z",
+        "deleted_at": null,
+        "name": "Chakganjaria",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 72,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.249Z",
+        "created_at": "2023-02-04T18:43:05.249Z",
+        "deleted_at": null,
+        "name": "Chandganj",
+        "code": "",
+        "zip_code": "226024",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 73,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.250Z",
+        "created_at": "2023-02-04T18:43:05.250Z",
+        "deleted_at": null,
+        "name": "Chandrawal",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 74,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.251Z",
+        "created_at": "2023-02-04T18:43:05.251Z",
+        "deleted_at": null,
+        "name": "Charbagh",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 75,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.252Z",
+        "created_at": "2023-02-04T18:43:05.252Z",
+        "deleted_at": null,
+        "name": "Chatauni",
+        "code": "",
+        "zip_code": "227308",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 76,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.253Z",
+        "created_at": "2023-02-04T18:43:05.253Z",
+        "deleted_at": null,
+        "name": "Chaupatiyan",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 77,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.253Z",
+        "created_at": "2023-02-04T18:43:05.254Z",
+        "deleted_at": null,
+        "name": "Chinhat",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 78,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.254Z",
+        "created_at": "2023-02-04T18:43:05.254Z",
+        "deleted_at": null,
+        "name": "Cimap",
+        "code": "",
+        "zip_code": "226015",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 79,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.255Z",
+        "created_at": "2023-02-04T18:43:05.255Z",
+        "deleted_at": null,
+        "name": "D M road",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 80,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.256Z",
+        "created_at": "2023-02-04T18:43:05.256Z",
+        "deleted_at": null,
+        "name": "D S bazar",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 81,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.257Z",
+        "created_at": "2023-02-04T18:43:05.257Z",
+        "deleted_at": null,
+        "name": "Daliganj",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 82,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.258Z",
+        "created_at": "2023-02-04T18:43:05.258Z",
+        "deleted_at": null,
+        "name": "Darul Safa",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 83,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.259Z",
+        "created_at": "2023-02-04T18:43:05.259Z",
+        "deleted_at": null,
+        "name": "Daulatpur",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 84,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.260Z",
+        "created_at": "2023-02-04T18:43:05.260Z",
+        "deleted_at": null,
+        "name": "Dayalpur",
+        "code": "",
+        "zip_code": "227309",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 85,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.260Z",
+        "created_at": "2023-02-04T18:43:05.260Z",
+        "deleted_at": null,
+        "name": "Deoti",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 86,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.261Z",
+        "created_at": "2023-02-04T18:43:05.261Z",
+        "deleted_at": null,
+        "name": "Dhendhemau",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 87,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.263Z",
+        "created_at": "2023-02-04T18:43:05.263Z",
+        "deleted_at": null,
+        "name": "Diguria",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 88,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.264Z",
+        "created_at": "2023-02-04T18:43:05.264Z",
+        "deleted_at": null,
+        "name": "Dilawarnagar",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 89,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.264Z",
+        "created_at": "2023-02-04T18:43:05.264Z",
+        "deleted_at": null,
+        "name": "Dilkusha",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 90,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.265Z",
+        "created_at": "2023-02-04T18:43:05.265Z",
+        "deleted_at": null,
+        "name": "Distt. jail",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 91,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.266Z",
+        "created_at": "2023-02-04T18:43:05.266Z",
+        "deleted_at": null,
+        "name": "Dona",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 92,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.267Z",
+        "created_at": "2023-02-04T18:43:05.267Z",
+        "deleted_at": null,
+        "name": "Fftc Indaurabagh",
+        "code": "",
+        "zip_code": "227207",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 93,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.268Z",
+        "created_at": "2023-02-04T18:43:05.268Z",
+        "deleted_at": null,
+        "name": "Gahdon",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 94,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.269Z",
+        "created_at": "2023-02-04T18:43:05.269Z",
+        "deleted_at": null,
+        "name": "Ganesh Ganj",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 95,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.270Z",
+        "created_at": "2023-02-04T18:43:05.270Z",
+        "deleted_at": null,
+        "name": "Garhi Chunauti",
+        "code": "",
+        "zip_code": "227101",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 96,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.271Z",
+        "created_at": "2023-02-04T18:43:05.271Z",
+        "deleted_at": null,
+        "name": "Gaunda",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 97,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.272Z",
+        "created_at": "2023-02-04T18:43:05.272Z",
+        "deleted_at": null,
+        "name": "Gayrtinagar",
+        "code": "",
+        "zip_code": "226021",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 98,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.272Z",
+        "created_at": "2023-02-04T18:43:05.272Z",
+        "deleted_at": null,
+        "name": "Ghaila",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 99,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.273Z",
+        "created_at": "2023-02-04T18:43:05.273Z",
+        "deleted_at": null,
+        "name": "Ghazipur",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 100,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.274Z",
+        "created_at": "2023-02-04T18:43:05.274Z",
+        "deleted_at": null,
+        "name": "Gohramau",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 101,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.275Z",
+        "created_at": "2023-02-04T18:43:05.275Z",
+        "deleted_at": null,
+        "name": "Goila",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 102,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.276Z",
+        "created_at": "2023-02-04T18:43:05.276Z",
+        "deleted_at": null,
+        "name": "Gokhley Marg",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 103,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.277Z",
+        "created_at": "2023-02-04T18:43:05.277Z",
+        "deleted_at": null,
+        "name": "Golaganj",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 104,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.278Z",
+        "created_at": "2023-02-04T18:43:05.278Z",
+        "deleted_at": null,
+        "name": "Gomtinagar",
+        "code": "",
+        "zip_code": "226010",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 105,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.279Z",
+        "created_at": "2023-02-04T18:43:05.279Z",
+        "deleted_at": null,
+        "name": "Gomtinagar Vistar",
+        "code": "",
+        "zip_code": "226010",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 106,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.280Z",
+        "created_at": "2023-02-04T18:43:05.280Z",
+        "deleted_at": null,
+        "name": "Gopramau",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 107,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.281Z",
+        "created_at": "2023-02-04T18:43:05.281Z",
+        "deleted_at": null,
+        "name": "Gosainganj",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 108,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.282Z",
+        "created_at": "2023-02-04T18:43:05.282Z",
+        "deleted_at": null,
+        "name": "Guramba",
+        "code": "",
+        "zip_code": "226026",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 109,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.283Z",
+        "created_at": "2023-02-04T18:43:05.283Z",
+        "deleted_at": null,
+        "name": "Gurdwara",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 110,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.283Z",
+        "created_at": "2023-02-04T18:43:05.283Z",
+        "deleted_at": null,
+        "name": "H C bench",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 111,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.284Z",
+        "created_at": "2023-02-04T18:43:05.284Z",
+        "deleted_at": null,
+        "name": "H E school",
+        "code": "",
+        "zip_code": "226006",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 112,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.285Z",
+        "created_at": "2023-02-04T18:43:05.285Z",
+        "deleted_at": null,
+        "name": "Hal",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 113,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.286Z",
+        "created_at": "2023-02-04T18:43:05.286Z",
+        "deleted_at": null,
+        "name": "Harauni",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 114,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.287Z",
+        "created_at": "2023-02-04T18:43:05.287Z",
+        "deleted_at": null,
+        "name": "Hasanpur Keoli",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 115,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.288Z",
+        "created_at": "2023-02-04T18:43:05.288Z",
+        "deleted_at": null,
+        "name": "Hasnain Market",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 116,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.289Z",
+        "created_at": "2023-02-04T18:43:05.289Z",
+        "deleted_at": null,
+        "name": "Hasnapur",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 117,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.290Z",
+        "created_at": "2023-02-04T18:43:05.290Z",
+        "deleted_at": null,
+        "name": "Husainabad",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 118,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.291Z",
+        "created_at": "2023-02-04T18:43:05.291Z",
+        "deleted_at": null,
+        "name": "Iim Mubarakpur",
+        "code": "",
+        "zip_code": "226013",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 119,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.292Z",
+        "created_at": "2023-02-04T18:43:05.292Z",
+        "deleted_at": null,
+        "name": "Ind.Area sarojininagar",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 120,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.293Z",
+        "created_at": "2023-02-04T18:43:05.293Z",
+        "deleted_at": null,
+        "name": "Indara",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 121,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.293Z",
+        "created_at": "2023-02-04T18:43:05.293Z",
+        "deleted_at": null,
+        "name": "Indira Nagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 122,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.295Z",
+        "created_at": "2023-02-04T18:43:05.295Z",
+        "deleted_at": null,
+        "name": "Industria Area chinhat",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 123,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.296Z",
+        "created_at": "2023-02-04T18:43:05.296Z",
+        "deleted_at": null,
+        "name": "Industrial Area",
+        "code": "",
+        "zip_code": "226009",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 124,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.297Z",
+        "created_at": "2023-02-04T18:43:05.297Z",
+        "deleted_at": null,
+        "name": "Int Gaon",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 125,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.297Z",
+        "created_at": "2023-02-04T18:43:05.297Z",
+        "deleted_at": null,
+        "name": "Ismailganj",
+        "code": "",
+        "zip_code": "226010",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 126,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.298Z",
+        "created_at": "2023-02-04T18:43:05.298Z",
+        "deleted_at": null,
+        "name": "Itaunja",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 127,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.299Z",
+        "created_at": "2023-02-04T18:43:05.299Z",
+        "deleted_at": null,
+        "name": "Jabrauli",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 128,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.300Z",
+        "created_at": "2023-02-04T18:43:05.300Z",
+        "deleted_at": null,
+        "name": "Jagdishpur",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 129,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.301Z",
+        "created_at": "2023-02-04T18:43:05.301Z",
+        "deleted_at": null,
+        "name": "Jaitikhera",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 130,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.302Z",
+        "created_at": "2023-02-04T18:43:05.302Z",
+        "deleted_at": null,
+        "name": "Jamkhanwa",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 131,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.303Z",
+        "created_at": "2023-02-04T18:43:05.303Z",
+        "deleted_at": null,
+        "name": "Jamolia",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 132,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.303Z",
+        "created_at": "2023-02-04T18:43:05.304Z",
+        "deleted_at": null,
+        "name": "Jawahar Bhawan",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 133,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.305Z",
+        "created_at": "2023-02-04T18:43:05.305Z",
+        "deleted_at": null,
+        "name": "Jindaur",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 134,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.306Z",
+        "created_at": "2023-02-04T18:43:05.306Z",
+        "deleted_at": null,
+        "name": "Juggaur",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 135,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.307Z",
+        "created_at": "2023-02-04T18:43:05.307Z",
+        "deleted_at": null,
+        "name": "Kahla",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 136,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.309Z",
+        "created_at": "2023-02-04T18:43:05.309Z",
+        "deleted_at": null,
+        "name": "Kakori",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 137,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.310Z",
+        "created_at": "2023-02-04T18:43:05.310Z",
+        "deleted_at": null,
+        "name": "Kakrabad",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 138,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.311Z",
+        "created_at": "2023-02-04T18:43:05.311Z",
+        "deleted_at": null,
+        "name": "Kalli Pacchim",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 139,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.312Z",
+        "created_at": "2023-02-04T18:43:05.312Z",
+        "deleted_at": null,
+        "name": "Kalyanpur",
+        "code": "",
+        "zip_code": "226022",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 140,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.313Z",
+        "created_at": "2023-02-04T18:43:05.313Z",
+        "deleted_at": null,
+        "name": "Kamlabad Badauli",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 141,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.314Z",
+        "created_at": "2023-02-04T18:43:05.314Z",
+        "deleted_at": null,
+        "name": "Kankaha",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 142,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.315Z",
+        "created_at": "2023-02-04T18:43:05.315Z",
+        "deleted_at": null,
+        "name": "Karora",
+        "code": "",
+        "zip_code": "227308",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 143,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.315Z",
+        "created_at": "2023-02-04T18:43:05.315Z",
+        "deleted_at": null,
+        "name": "Kasimpur Biruha",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 144,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.316Z",
+        "created_at": "2023-02-04T18:43:05.316Z",
+        "deleted_at": null,
+        "name": "Kasmandi Kalan",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 145,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.318Z",
+        "created_at": "2023-02-04T18:43:05.318Z",
+        "deleted_at": null,
+        "name": "Kasmandi Khurd",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 146,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.319Z",
+        "created_at": "2023-02-04T18:43:05.319Z",
+        "deleted_at": null,
+        "name": "Katauli",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 147,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.320Z",
+        "created_at": "2023-02-04T18:43:05.320Z",
+        "deleted_at": null,
+        "name": "Kathwara",
+        "code": "",
+        "zip_code": "227207",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 148,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.321Z",
+        "created_at": "2023-02-04T18:43:05.321Z",
+        "deleted_at": null,
+        "name": "Keoli",
+        "code": "",
+        "zip_code": "227308",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 149,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.322Z",
+        "created_at": "2023-02-04T18:43:05.322Z",
+        "deleted_at": null,
+        "name": "Khalispur",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 150,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.323Z",
+        "created_at": "2023-02-04T18:43:05.323Z",
+        "deleted_at": null,
+        "name": "Khantari",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 151,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.324Z",
+        "created_at": "2023-02-04T18:43:05.324Z",
+        "deleted_at": null,
+        "name": "Kharika",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 152,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.325Z",
+        "created_at": "2023-02-04T18:43:05.325Z",
+        "deleted_at": null,
+        "name": "Kharsara",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 153,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.327Z",
+        "created_at": "2023-02-04T18:43:05.327Z",
+        "deleted_at": null,
+        "name": "Khushalganj",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 154,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.328Z",
+        "created_at": "2023-02-04T18:43:05.328Z",
+        "deleted_at": null,
+        "name": "Kotwa",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 155,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.329Z",
+        "created_at": "2023-02-04T18:43:05.329Z",
+        "deleted_at": null,
+        "name": "Kumharawan.",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 156,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.330Z",
+        "created_at": "2023-02-04T18:43:05.330Z",
+        "deleted_at": null,
+        "name": "Kusmaura",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 157,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.331Z",
+        "created_at": "2023-02-04T18:43:05.331Z",
+        "deleted_at": null,
+        "name": "L D a colony",
+        "code": "",
+        "zip_code": "226012",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 158,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.332Z",
+        "created_at": "2023-02-04T18:43:05.332Z",
+        "deleted_at": null,
+        "name": "Lalbagh",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 159,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.334Z",
+        "created_at": "2023-02-04T18:43:05.334Z",
+        "deleted_at": null,
+        "name": "Laulai",
+        "code": "",
+        "zip_code": "226010",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 160,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.336Z",
+        "created_at": "2023-02-04T18:43:05.336Z",
+        "deleted_at": null,
+        "name": "Locomotive W shop",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 161,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.337Z",
+        "created_at": "2023-02-04T18:43:05.337Z",
+        "deleted_at": null,
+        "name": "Lonikatra",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 162,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.338Z",
+        "created_at": "2023-02-04T18:43:05.338Z",
+        "deleted_at": null,
+        "name": "Lucknow Chowk",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 163,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.340Z",
+        "created_at": "2023-02-04T18:43:05.340Z",
+        "deleted_at": null,
+        "name": "Lucknow.",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 164,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.341Z",
+        "created_at": "2023-02-04T18:43:05.341Z",
+        "deleted_at": null,
+        "name": "M N colony",
+        "code": "",
+        "zip_code": "226006",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 165,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.342Z",
+        "created_at": "2023-02-04T18:43:05.342Z",
+        "deleted_at": null,
+        "name": "Madiyaon",
+        "code": "",
+        "zip_code": "226021",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 166,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.344Z",
+        "created_at": "2023-02-04T18:43:05.344Z",
+        "deleted_at": null,
+        "name": "Mahanagar",
+        "code": "",
+        "zip_code": "226006",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 167,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.346Z",
+        "created_at": "2023-02-04T18:43:05.346Z",
+        "deleted_at": null,
+        "name": "Maharishi Vidya mandir",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 168,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.347Z",
+        "created_at": "2023-02-04T18:43:05.347Z",
+        "deleted_at": null,
+        "name": "Mahigawan",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 169,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.348Z",
+        "created_at": "2023-02-04T18:43:05.348Z",
+        "deleted_at": null,
+        "name": "Mahmoodnagar",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 170,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.350Z",
+        "created_at": "2023-02-04T18:43:05.350Z",
+        "deleted_at": null,
+        "name": "Mahona",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 171,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.351Z",
+        "created_at": "2023-02-04T18:43:05.351Z",
+        "deleted_at": null,
+        "name": "Malesemau",
+        "code": "",
+        "zip_code": "226010",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 172,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.352Z",
+        "created_at": "2023-02-04T18:43:05.352Z",
+        "deleted_at": null,
+        "name": "Malha",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 173,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.354Z",
+        "created_at": "2023-02-04T18:43:05.354Z",
+        "deleted_at": null,
+        "name": "Malhaur",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 174,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.356Z",
+        "created_at": "2023-02-04T18:43:05.356Z",
+        "deleted_at": null,
+        "name": "Malihabad",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 175,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.357Z",
+        "created_at": "2023-02-04T18:43:05.357Z",
+        "deleted_at": null,
+        "name": "Mall",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 176,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.359Z",
+        "created_at": "2023-02-04T18:43:05.359Z",
+        "deleted_at": null,
+        "name": "Manaknagar",
+        "code": "",
+        "zip_code": "226011",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 177,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.361Z",
+        "created_at": "2023-02-04T18:43:05.361Z",
+        "deleted_at": null,
+        "name": "Manasnagar",
+        "code": "",
+        "zip_code": "226023",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 178,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.363Z",
+        "created_at": "2023-02-04T18:43:05.363Z",
+        "deleted_at": null,
+        "name": "Mansoor Nagar",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 179,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.365Z",
+        "created_at": "2023-02-04T18:43:05.365Z",
+        "deleted_at": null,
+        "name": "Mati",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 180,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.367Z",
+        "created_at": "2023-02-04T18:43:05.367Z",
+        "deleted_at": null,
+        "name": "Maunda",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 181,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.368Z",
+        "created_at": "2023-02-04T18:43:05.368Z",
+        "deleted_at": null,
+        "name": "Mawai Kalan",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 182,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.370Z",
+        "created_at": "2023-02-04T18:43:05.370Z",
+        "deleted_at": null,
+        "name": "Mawai Khurd",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 183,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.372Z",
+        "created_at": "2023-02-04T18:43:05.372Z",
+        "deleted_at": null,
+        "name": "Mawai Padiyana",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 184,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.374Z",
+        "created_at": "2023-02-04T18:43:05.374Z",
+        "deleted_at": null,
+        "name": "Medical College",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 185,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.376Z",
+        "created_at": "2023-02-04T18:43:05.376Z",
+        "deleted_at": null,
+        "name": "Meeraknagar",
+        "code": "",
+        "zip_code": "227309",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 186,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.378Z",
+        "created_at": "2023-02-04T18:43:05.378Z",
+        "deleted_at": null,
+        "name": "Mehmoodpur",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 187,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.379Z",
+        "created_at": "2023-02-04T18:43:05.379Z",
+        "deleted_at": null,
+        "name": "Military Hospital",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 188,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.381Z",
+        "created_at": "2023-02-04T18:43:05.381Z",
+        "deleted_at": null,
+        "name": "Mill Road",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 189,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.383Z",
+        "created_at": "2023-02-04T18:43:05.383Z",
+        "deleted_at": null,
+        "name": "Mohanlalganj",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 190,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.384Z",
+        "created_at": "2023-02-04T18:43:05.384Z",
+        "deleted_at": null,
+        "name": "Mohari Khurd",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 191,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.386Z",
+        "created_at": "2023-02-04T18:43:05.386Z",
+        "deleted_at": null,
+        "name": "Molviganj",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 192,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.388Z",
+        "created_at": "2023-02-04T18:43:05.388Z",
+        "deleted_at": null,
+        "name": "Munnu Khera",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 193,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.390Z",
+        "created_at": "2023-02-04T18:43:05.390Z",
+        "deleted_at": null,
+        "name": "Nabipanah",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 194,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.391Z",
+        "created_at": "2023-02-04T18:43:05.391Z",
+        "deleted_at": null,
+        "name": "Nadan Mahal",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 195,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.394Z",
+        "created_at": "2023-02-04T18:43:05.394Z",
+        "deleted_at": null,
+        "name": "Nadwa",
+        "code": "",
+        "zip_code": "226007",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 196,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.396Z",
+        "created_at": "2023-02-04T18:43:05.396Z",
+        "deleted_at": null,
+        "name": "Nagram",
+        "code": "",
+        "zip_code": "227308",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 197,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.398Z",
+        "created_at": "2023-02-04T18:43:05.398Z",
+        "deleted_at": null,
+        "name": "Narain Nagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 198,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.400Z",
+        "created_at": "2023-02-04T18:43:05.400Z",
+        "deleted_at": null,
+        "name": "Narosa",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 199,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.402Z",
+        "created_at": "2023-02-04T18:43:05.402Z",
+        "deleted_at": null,
+        "name": "Naubasta",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 200,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.404Z",
+        "created_at": "2023-02-04T18:43:05.404Z",
+        "deleted_at": null,
+        "name": "Navinmandi",
+        "code": "",
+        "zip_code": "226024",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 201,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.405Z",
+        "created_at": "2023-02-04T18:43:05.405Z",
+        "deleted_at": null,
+        "name": "Naya Gaon",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 202,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.406Z",
+        "created_at": "2023-02-04T18:43:05.406Z",
+        "deleted_at": null,
+        "name": "Neewan",
+        "code": "",
+        "zip_code": "227101",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 203,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.408Z",
+        "created_at": "2023-02-04T18:43:05.408Z",
+        "deleted_at": null,
+        "name": "New Ganeshganj",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 204,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.410Z",
+        "created_at": "2023-02-04T18:43:05.410Z",
+        "deleted_at": null,
+        "name": "New Hyderabad",
+        "code": "",
+        "zip_code": "226007",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 205,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.411Z",
+        "created_at": "2023-02-04T18:43:05.411Z",
+        "deleted_at": null,
+        "name": "Niel Lines",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 206,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.413Z",
+        "created_at": "2023-02-04T18:43:05.413Z",
+        "deleted_at": null,
+        "name": "Nigohan",
+        "code": "",
+        "zip_code": "227309",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 207,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.416Z",
+        "created_at": "2023-02-04T18:43:05.416Z",
+        "deleted_at": null,
+        "name": "Nilmatha",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 208,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.418Z",
+        "created_at": "2023-02-04T18:43:05.418Z",
+        "deleted_at": null,
+        "name": "Niralanagar",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 209,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.420Z",
+        "created_at": "2023-02-04T18:43:05.420Z",
+        "deleted_at": null,
+        "name": "Paharpur",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 210,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.421Z",
+        "created_at": "2023-02-04T18:43:05.421Z",
+        "deleted_at": null,
+        "name": "Pandariba",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 211,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.422Z",
+        "created_at": "2023-02-04T18:43:05.423Z",
+        "deleted_at": null,
+        "name": "Pateona",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 212,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.424Z",
+        "created_at": "2023-02-04T18:43:05.424Z",
+        "deleted_at": null,
+        "name": "Pawanpuri",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 213,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.426Z",
+        "created_at": "2023-02-04T18:43:05.426Z",
+        "deleted_at": null,
+        "name": "Piparsand",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 214,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.428Z",
+        "created_at": "2023-02-04T18:43:05.428Z",
+        "deleted_at": null,
+        "name": "Purseni",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 215,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.430Z",
+        "created_at": "2023-02-04T18:43:05.430Z",
+        "deleted_at": null,
+        "name": "R A college",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 216,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.432Z",
+        "created_at": "2023-02-04T18:43:05.432Z",
+        "deleted_at": null,
+        "name": "R B colony",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 217,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.433Z",
+        "created_at": "2023-02-04T18:43:05.433Z",
+        "deleted_at": null,
+        "name": "R G c mill",
+        "code": "",
+        "zip_code": "226017",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 218,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.436Z",
+        "created_at": "2023-02-04T18:43:05.436Z",
+        "deleted_at": null,
+        "name": "R P line",
+        "code": "",
+        "zip_code": "226007",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 219,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.437Z",
+        "created_at": "2023-02-04T18:43:05.437Z",
+        "deleted_at": null,
+        "name": "Raghunathpur",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 220,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.438Z",
+        "created_at": "2023-02-04T18:43:05.438Z",
+        "deleted_at": null,
+        "name": "Rahim Nagar padiana",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 221,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.439Z",
+        "created_at": "2023-02-04T18:43:05.439Z",
+        "deleted_at": null,
+        "name": "Rahimabad",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 222,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.441Z",
+        "created_at": "2023-02-04T18:43:05.441Z",
+        "deleted_at": null,
+        "name": "Raitha",
+        "code": "",
+        "zip_code": "227207",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 223,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.443Z",
+        "created_at": "2023-02-04T18:43:05.443Z",
+        "deleted_at": null,
+        "name": "Raja Bazar",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 224,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.445Z",
+        "created_at": "2023-02-04T18:43:05.445Z",
+        "deleted_at": null,
+        "name": "Rajajipuram",
+        "code": "",
+        "zip_code": "226017",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 225,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.447Z",
+        "created_at": "2023-02-04T18:43:05.447Z",
+        "deleted_at": null,
+        "name": "Rajauli",
+        "code": "",
+        "zip_code": "226026",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 226,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.448Z",
+        "created_at": "2023-02-04T18:43:05.448Z",
+        "deleted_at": null,
+        "name": "Rajendranagar",
+        "code": "",
+        "zip_code": "226004",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 227,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.450Z",
+        "created_at": "2023-02-04T18:43:05.450Z",
+        "deleted_at": null,
+        "name": "Ram Sagar mishra nagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 228,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.451Z",
+        "created_at": "2023-02-04T18:43:05.451Z",
+        "deleted_at": null,
+        "name": "Ranipara",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 229,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.453Z",
+        "created_at": "2023-02-04T18:43:05.453Z",
+        "deleted_at": null,
+        "name": "Rasoolpur Saadat",
+        "code": "",
+        "zip_code": "227105",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 230,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.455Z",
+        "created_at": "2023-02-04T18:43:05.455Z",
+        "deleted_at": null,
+        "name": "Rasoolpur Tikaniamau",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 231,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.457Z",
+        "created_at": "2023-02-04T18:43:05.457Z",
+        "deleted_at": null,
+        "name": "Rehman Khera",
+        "code": "",
+        "zip_code": "227107",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 232,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.459Z",
+        "created_at": "2023-02-04T18:43:05.459Z",
+        "deleted_at": null,
+        "name": "Roberts Line",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 233,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.462Z",
+        "created_at": "2023-02-04T18:43:05.462Z",
+        "deleted_at": null,
+        "name": "Rusena",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 234,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.464Z",
+        "created_at": "2023-02-04T18:43:05.464Z",
+        "deleted_at": null,
+        "name": "Saadatganj",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 235,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.467Z",
+        "created_at": "2023-02-04T18:43:05.467Z",
+        "deleted_at": null,
+        "name": "Sadrauna",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 236,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.470Z",
+        "created_at": "2023-02-04T18:43:05.470Z",
+        "deleted_at": null,
+        "name": "Sahijana",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 237,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.472Z",
+        "created_at": "2023-02-04T18:43:05.472Z",
+        "deleted_at": null,
+        "name": "Sairpur",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 238,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.474Z",
+        "created_at": "2023-02-04T18:43:05.474Z",
+        "deleted_at": null,
+        "name": "Salehnagar",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 239,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.476Z",
+        "created_at": "2023-02-04T18:43:05.476Z",
+        "deleted_at": null,
+        "name": "Salempur",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 240,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.477Z",
+        "created_at": "2023-02-04T18:43:05.477Z",
+        "deleted_at": null,
+        "name": "Samesi",
+        "code": "",
+        "zip_code": "227308",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 241,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.479Z",
+        "created_at": "2023-02-04T18:43:05.479Z",
+        "deleted_at": null,
+        "name": "Sanatan Dharam vidya peeth",
+        "code": "",
+        "zip_code": "226026",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 242,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.481Z",
+        "created_at": "2023-02-04T18:43:05.481Z",
+        "deleted_at": null,
+        "name": "Sant Market",
+        "code": "",
+        "zip_code": "226006",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 243,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.484Z",
+        "created_at": "2023-02-04T18:43:05.484Z",
+        "deleted_at": null,
+        "name": "Sarai Damu",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 244,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.486Z",
+        "created_at": "2023-02-04T18:43:05.486Z",
+        "deleted_at": null,
+        "name": "Sarai Gudauli",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 245,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.488Z",
+        "created_at": "2023-02-04T18:43:05.488Z",
+        "deleted_at": null,
+        "name": "Sarai Mali khan",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 246,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.490Z",
+        "created_at": "2023-02-04T18:43:05.490Z",
+        "deleted_at": null,
+        "name": "Saraura",
+        "code": "",
+        "zip_code": "227202",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 247,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.493Z",
+        "created_at": "2023-02-04T18:43:05.493Z",
+        "deleted_at": null,
+        "name": "Sarfraj",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 248,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.495Z",
+        "created_at": "2023-02-04T18:43:05.495Z",
+        "deleted_at": null,
+        "name": "Sarojini Nagar",
+        "code": "",
+        "zip_code": "226008",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 249,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.497Z",
+        "created_at": "2023-02-04T18:43:05.497Z",
+        "deleted_at": null,
+        "name": "Sarvoday Nagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 250,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.499Z",
+        "created_at": "2023-02-04T18:43:05.499Z",
+        "deleted_at": null,
+        "name": "Sathwara",
+        "code": "",
+        "zip_code": "227125",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 251,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.501Z",
+        "created_at": "2023-02-04T18:43:05.501Z",
+        "deleted_at": null,
+        "name": "Sec-14 Indiranagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 252,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.503Z",
+        "created_at": "2023-02-04T18:43:05.503Z",
+        "deleted_at": null,
+        "name": "Sec-18 Indiranagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 253,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.506Z",
+        "created_at": "2023-02-04T18:43:05.506Z",
+        "deleted_at": null,
+        "name": "Sec-21 Indiranagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 254,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.508Z",
+        "created_at": "2023-02-04T18:43:05.508Z",
+        "deleted_at": null,
+        "name": "Sec-c Sitapur rd",
+        "code": "",
+        "zip_code": "226021",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 255,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.510Z",
+        "created_at": "2023-02-04T18:43:05.510Z",
+        "deleted_at": null,
+        "name": "Sec-d Indiranagar",
+        "code": "",
+        "zip_code": "226016",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 256,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.512Z",
+        "created_at": "2023-02-04T18:43:05.512Z",
+        "deleted_at": null,
+        "name": "Sectariate",
+        "code": "",
+        "zip_code": "226001",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 257,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.514Z",
+        "created_at": "2023-02-04T18:43:05.514Z",
+        "deleted_at": null,
+        "name": "Sgpgi",
+        "code": "",
+        "zip_code": "226014",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 258,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.516Z",
+        "created_at": "2023-02-04T18:43:05.516Z",
+        "deleted_at": null,
+        "name": "Shia Lines",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 259,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.517Z",
+        "created_at": "2023-02-04T18:43:05.517Z",
+        "deleted_at": null,
+        "name": "Shivaji Marg",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 260,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.519Z",
+        "created_at": "2023-02-04T18:43:05.520Z",
+        "deleted_at": null,
+        "name": "Singar Nagar",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 261,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.521Z",
+        "created_at": "2023-02-04T18:43:05.521Z",
+        "deleted_at": null,
+        "name": "Singhamau",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 262,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.523Z",
+        "created_at": "2023-02-04T18:43:05.523Z",
+        "deleted_at": null,
+        "name": "Singhrawa",
+        "code": "",
+        "zip_code": "227111",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 263,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.525Z",
+        "created_at": "2023-02-04T18:43:05.525Z",
+        "deleted_at": null,
+        "name": "Sisendi",
+        "code": "",
+        "zip_code": "227305",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 264,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.527Z",
+        "created_at": "2023-02-04T18:43:05.527Z",
+        "deleted_at": null,
+        "name": "Sujanpura",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 265,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.529Z",
+        "created_at": "2023-02-04T18:43:05.529Z",
+        "deleted_at": null,
+        "name": "Sunderbagh",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 266,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.530Z",
+        "created_at": "2023-02-04T18:43:05.530Z",
+        "deleted_at": null,
+        "name": "Suspen",
+        "code": "",
+        "zip_code": "227116",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 267,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.532Z",
+        "created_at": "2023-02-04T18:43:05.532Z",
+        "deleted_at": null,
+        "name": "T. tib",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 268,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.534Z",
+        "created_at": "2023-02-04T18:43:05.534Z",
+        "deleted_at": null,
+        "name": "Thakurganj",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 269,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.536Z",
+        "created_at": "2023-02-04T18:43:05.536Z",
+        "deleted_at": null,
+        "name": "Thari",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 270,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.538Z",
+        "created_at": "2023-02-04T18:43:05.538Z",
+        "deleted_at": null,
+        "name": "Thawar",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 271,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.540Z",
+        "created_at": "2023-02-04T18:43:05.540Z",
+        "deleted_at": null,
+        "name": "Tirwa",
+        "code": "",
+        "zip_code": "226005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 272,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.542Z",
+        "created_at": "2023-02-04T18:43:05.542Z",
+        "deleted_at": null,
+        "name": "Topkhana Bazar",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 273,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.543Z",
+        "created_at": "2023-02-04T18:43:05.543Z",
+        "deleted_at": null,
+        "name": "Triveni Nagar",
+        "code": "",
+        "zip_code": "226020",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 274,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.545Z",
+        "created_at": "2023-02-04T18:43:05.545Z",
+        "deleted_at": null,
+        "name": "U I c mill",
+        "code": "",
+        "zip_code": "226006",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 275,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.548Z",
+        "created_at": "2023-02-04T18:43:05.548Z",
+        "deleted_at": null,
+        "name": "U P governer camp",
+        "code": "",
+        "zip_code": "227132",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 276,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.551Z",
+        "created_at": "2023-02-04T18:43:05.551Z",
+        "deleted_at": null,
+        "name": "Ujariaon",
+        "code": "",
+        "zip_code": "226010",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 277,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.552Z",
+        "created_at": "2023-02-04T18:43:05.552Z",
+        "deleted_at": null,
+        "name": "Umrawal",
+        "code": "",
+        "zip_code": "227115",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 278,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.554Z",
+        "created_at": "2023-02-04T18:43:05.554Z",
+        "deleted_at": null,
+        "name": "Usarana",
+        "code": "",
+        "zip_code": "227005",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 279,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.556Z",
+        "created_at": "2023-02-04T18:43:05.556Z",
+        "deleted_at": null,
+        "name": "Utrathia",
+        "code": "",
+        "zip_code": "226002",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 280,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.558Z",
+        "created_at": "2023-02-04T18:43:05.558Z",
+        "deleted_at": null,
+        "name": "Utrawan",
+        "code": "",
+        "zip_code": "227309",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 281,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.560Z",
+        "created_at": "2023-02-04T18:43:05.560Z",
+        "deleted_at": null,
+        "name": "Victoriaganj",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 282,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.562Z",
+        "created_at": "2023-02-04T18:43:05.562Z",
+        "deleted_at": null,
+        "name": "Vikas Nagar",
+        "code": "",
+        "zip_code": "226022",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 283,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.564Z",
+        "created_at": "2023-02-04T18:43:05.564Z",
+        "deleted_at": null,
+        "name": "Wazirganj",
+        "code": "",
+        "zip_code": "226018",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 284,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.566Z",
+        "created_at": "2023-02-04T18:43:05.566Z",
+        "deleted_at": null,
+        "name": "Yahiaganj",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+},
+{
+    "model": "common.area",
+    "pk": 285,
+    "fields": {
+        "modified_at": "2023-02-04T18:43:05.567Z",
+        "created_at": "2023-02-04T18:43:05.567Z",
+        "deleted_at": null,
+        "name": "Zarda",
+        "code": "",
+        "zip_code": "226003",
+        "province": 47
+    }
+}
+]

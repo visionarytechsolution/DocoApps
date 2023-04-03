@@ -1,0 +1,17 @@
+-r base.txt
+
+ipdb
+ipython
+django-debug-toolbar==1.9.1
+isort
+
+# Code style check
+pylint==2.8.2
+pylint-django==2.4.4
+pylint-celery==0.3
+
+# pre-commit checks
+black==21.10b0
+pre-commit==2.13.0
+flake8==3.9.2
+flake8_strict==0.2.1

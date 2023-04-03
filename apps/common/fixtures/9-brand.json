@@ -1,0 +1,434 @@
+[
+{
+    "model": "common.brand",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.984Z",
+        "created_at": "2023-02-05T08:42:55.984Z",
+        "deleted_at": null,
+        "name": "Colgate toothpastes",
+        "code": "8LYI",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.987Z",
+        "created_at": "2023-02-05T08:42:55.988Z",
+        "deleted_at": null,
+        "name": "Close-up",
+        "code": "PLJ4",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 3,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.989Z",
+        "created_at": "2023-02-05T08:42:55.989Z",
+        "deleted_at": null,
+        "name": "Pepsodent",
+        "code": "BFJY",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 4,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.990Z",
+        "created_at": "2023-02-05T08:42:55.990Z",
+        "deleted_at": null,
+        "name": "Sensodyne",
+        "code": "FYJQ",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 5,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.992Z",
+        "created_at": "2023-02-05T08:42:55.992Z",
+        "deleted_at": null,
+        "name": "Oral-B",
+        "code": "DNTS",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 6,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.993Z",
+        "created_at": "2023-02-05T08:42:55.993Z",
+        "deleted_at": null,
+        "name": "Meswak",
+        "code": "SCTH",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 7,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.995Z",
+        "created_at": "2023-02-05T08:42:55.995Z",
+        "deleted_at": null,
+        "name": "Patanjali Dant Kanti",
+        "code": "4U7M",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 8,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.996Z",
+        "created_at": "2023-02-05T08:42:55.996Z",
+        "deleted_at": null,
+        "name": "Vicco Vajradanti Ayurvedic Toothpaste",
+        "code": "TKYR",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 9,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.997Z",
+        "created_at": "2023-02-05T08:42:55.997Z",
+        "deleted_at": null,
+        "name": "Dabur Red Toothpaste",
+        "code": "JI7Y",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 10,
+    "fields": {
+        "modified_at": "2023-02-05T08:42:55.999Z",
+        "created_at": "2023-02-05T08:42:55.999Z",
+        "deleted_at": null,
+        "name": "Himalaya herbals complete dental care",
+        "code": "KREV",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 11,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:43.994Z",
+        "created_at": "2023-02-05T08:44:43.995Z",
+        "deleted_at": null,
+        "name": "Fortune",
+        "code": "FNHA",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 12,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:43.997Z",
+        "created_at": "2023-02-05T08:44:43.997Z",
+        "deleted_at": null,
+        "name": "King's",
+        "code": "BNEH",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 13,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:43.998Z",
+        "created_at": "2023-02-05T08:44:43.999Z",
+        "deleted_at": null,
+        "name": "Bullet",
+        "code": "LC7E",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 14,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.000Z",
+        "created_at": "2023-02-05T08:44:44.000Z",
+        "deleted_at": null,
+        "name": "Raag",
+        "code": "EK9G",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 15,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.001Z",
+        "created_at": "2023-02-05T08:44:44.001Z",
+        "deleted_at": null,
+        "name": "Avsar",
+        "code": "QVU9",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 16,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.002Z",
+        "created_at": "2023-02-05T08:44:44.002Z",
+        "deleted_at": null,
+        "name": "Pilaf",
+        "code": "XFXG",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 17,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.004Z",
+        "created_at": "2023-02-05T08:44:44.004Z",
+        "deleted_at": null,
+        "name": "Jubilee",
+        "code": "HVIC",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 18,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.005Z",
+        "created_at": "2023-02-05T08:44:44.005Z",
+        "deleted_at": null,
+        "name": "Fryola",
+        "code": "QQZN",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 19,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.006Z",
+        "created_at": "2023-02-05T08:44:44.006Z",
+        "deleted_at": null,
+        "name": "Alpha",
+        "code": "CVDC",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 20,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.008Z",
+        "created_at": "2023-02-05T08:44:44.008Z",
+        "deleted_at": null,
+        "name": "Alife",
+        "code": "U2CD",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 21,
+    "fields": {
+        "modified_at": "2023-02-05T08:44:44.009Z",
+        "created_at": "2023-02-05T08:44:44.009Z",
+        "deleted_at": null,
+        "name": "Aadhar",
+        "code": "16U8",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 22,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.720Z",
+        "created_at": "2023-02-05T08:48:11.720Z",
+        "deleted_at": null,
+        "name": "Havells India Ltd",
+        "code": "8OIP",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 23,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.723Z",
+        "created_at": "2023-02-05T08:48:11.723Z",
+        "deleted_at": null,
+        "name": "Aar-em Electronics",
+        "code": "ZSWA",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 24,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.724Z",
+        "created_at": "2023-02-05T08:48:11.724Z",
+        "deleted_at": null,
+        "name": "Bajaj Electronics",
+        "code": "1IAB",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 25,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.726Z",
+        "created_at": "2023-02-05T08:48:11.726Z",
+        "deleted_at": null,
+        "name": "Bosch in India",
+        "code": "4LOI",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 26,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.727Z",
+        "created_at": "2023-02-05T08:48:11.727Z",
+        "deleted_at": null,
+        "name": "The Kirloskar Electric Company Limited",
+        "code": "08N6",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 27,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.728Z",
+        "created_at": "2023-02-05T08:48:11.728Z",
+        "deleted_at": null,
+        "name": "Bharat Heavy Electricals Ltd.",
+        "code": "MF7N",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 28,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.730Z",
+        "created_at": "2023-02-05T08:48:11.730Z",
+        "deleted_at": null,
+        "name": "Wipro Lighting",
+        "code": "JCIR",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 29,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.731Z",
+        "created_at": "2023-02-05T08:48:11.731Z",
+        "deleted_at": null,
+        "name": "ABB",
+        "code": "URPO",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 30,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.732Z",
+        "created_at": "2023-02-05T08:48:11.732Z",
+        "deleted_at": null,
+        "name": "Crompton Greaves",
+        "code": "RQGF",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 31,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.734Z",
+        "created_at": "2023-02-05T08:48:11.734Z",
+        "deleted_at": null,
+        "name": "Jabil Circuits",
+        "code": "J1XA",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 32,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.735Z",
+        "created_at": "2023-02-05T08:48:11.735Z",
+        "deleted_at": null,
+        "name": "Honeywell",
+        "code": "V0BX",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 33,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.736Z",
+        "created_at": "2023-02-05T08:48:11.736Z",
+        "deleted_at": null,
+        "name": "3M India",
+        "code": "88ZP",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 34,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.737Z",
+        "created_at": "2023-02-05T08:48:11.737Z",
+        "deleted_at": null,
+        "name": "Amara Raja Batteries",
+        "code": "ECUL",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 35,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.738Z",
+        "created_at": "2023-02-05T08:48:11.739Z",
+        "deleted_at": null,
+        "name": "Philips Electronics India",
+        "code": "7XXM",
+        "logo": ""
+    }
+},
+{
+    "model": "common.brand",
+    "pk": 36,
+    "fields": {
+        "modified_at": "2023-02-05T08:48:11.740Z",
+        "created_at": "2023-02-05T08:48:11.740Z",
+        "deleted_at": null,
+        "name": "Exide Batteries Limited",
+        "code": "ZG6V",
+        "logo": ""
+    }
+}
+]

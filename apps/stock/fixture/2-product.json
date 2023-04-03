@@ -1,0 +1,65 @@
+[
+{
+    "model": "stock.product",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-05T09:08:07.260Z",
+        "created_at": "2023-02-05T09:08:07.260Z",
+        "deleted_at": null,
+        "tenant": "nVdFdE_esLXKvvHEzrP50AI2z9t76-sr",
+        "is_active": true,
+        "name": "Close up 200g",
+        "hsn_code": null,
+        "description": "",
+        "image": "IMAGES/PRODUCT/Colgate.png",
+        "brand": 2,
+        "reference_number": "GHJK5678",
+        "barcode": "12345676543",
+        "purchase_price": "19.65",
+        "selling_price": "24.56",
+        "tax_category": 8
+    }
+},
+{
+    "model": "stock.product",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-05T09:09:10.492Z",
+        "created_at": "2023-02-05T09:09:10.492Z",
+        "deleted_at": null,
+        "tenant": "nVdFdE_esLXKvvHEzrP50AI2z9t76-sr",
+        "is_active": true,
+        "name": "Sunflower Oil",
+        "hsn_code": null,
+        "description": "",
+        "image": "IMAGES/PRODUCT/Sensodyne_aQvnJ2X.png",
+        "brand": 11,
+        "reference_number": "TTYUI45678",
+        "barcode": "5676543345",
+        "purchase_price": "56.23",
+        "selling_price": "62.45",
+        "tax_category": 8
+    }
+},
+{
+    "model": "stock.product",
+    "pk": 3,
+    "fields": {
+        "modified_at": "2023-02-05T09:10:19.370Z",
+        "created_at": "2023-02-05T09:10:19.370Z",
+        "deleted_at": null,
+        "tenant": "nVdFdE_esLXKvvHEzrP50AI2z9t76-sr",
+        "is_active": true,
+        "name": "Rat Killer",
+        "hsn_code": null,
+        "description": "",
+        "image": "IMAGES/PRODUCT/Colgate_QtxzUFm.png",
+        "brand": 16,
+        "reference_number": "YUIU5676",
+        "barcode": "345987634",
+        "purchase_price": "22.45",
+        "selling_price": "32.56",
+        "tax_category": 3
+    }
+}
+]

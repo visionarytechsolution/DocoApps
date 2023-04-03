@@ -1,0 +1,13 @@
+[
+{
+    "model": "profile.retailerprofile",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-26T10:18:50.203Z",
+        "created_at": "2023-02-26T10:18:50.203Z",
+        "deleted_at": null,
+        "business_profile": 2,
+        "admin_user": 3
+    }
+}
+]

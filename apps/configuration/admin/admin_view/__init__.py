@@ -1,0 +1,5 @@
+from apps.configuration.admin.admin_view.blocked_retailer_view import BlockedRetailerAdmin
+from apps.configuration.admin.admin_view.offer_view import OfferAdmin
+from apps.configuration.admin.admin_view.product_offer_view import ProductOfferAdmin
+from apps.configuration.admin.admin_view.warehouse_view import WarehouseAdmin
+from apps.configuration.admin.admin_view.warehouse_serviceability_view import WarehouseServiceabilityAdmin

@@ -1,0 +1,32 @@
+[
+{
+    "model": "stock.inventory",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-05T14:00:03.231Z",
+        "created_at": "2023-02-05T14:00:03.231Z",
+        "deleted_at": null,
+        "tenant": "nVdFdE_esLXKvvHEzrP50AI2z9t76-sr",
+        "is_active": true,
+        "product": "12345676543",
+        "current_stock": "60.00",
+        "minimum_stock": "10.00",
+        "stock_unit": 3
+    }
+},
+{
+    "model": "stock.inventory",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-05T14:03:12.395Z",
+        "created_at": "2023-02-05T14:03:12.395Z",
+        "deleted_at": null,
+        "tenant": "nVdFdE_esLXKvvHEzrP50AI2z9t76-sr",
+        "is_active": true,
+        "product": "5676543345",
+        "current_stock": "120.00",
+        "minimum_stock": "20.00",
+        "stock_unit": 6
+    }
+}
+]

@@ -1,0 +1,197 @@
+[
+{
+    "model": "common.metricunit",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-04T18:52:28.997Z",
+        "created_at": "2023-02-04T18:52:28.997Z",
+        "deleted_at": null,
+        "category": "weight",
+        "name": "Kilogram",
+        "code": "Kg",
+        "symbol": "Kg"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-04T18:52:48.150Z",
+        "created_at": "2023-02-04T18:52:48.150Z",
+        "deleted_at": null,
+        "category": "weight",
+        "name": "Gram",
+        "code": "g",
+        "symbol": "g"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 3,
+    "fields": {
+        "modified_at": "2023-02-04T18:53:13.259Z",
+        "created_at": "2023-02-04T18:53:13.259Z",
+        "deleted_at": null,
+        "category": "weight",
+        "name": "Milligram",
+        "code": "mg",
+        "symbol": "mg"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 4,
+    "fields": {
+        "modified_at": "2023-02-04T18:53:32.144Z",
+        "created_at": "2023-02-04T18:53:32.144Z",
+        "deleted_at": null,
+        "category": "weight",
+        "name": "Tonne",
+        "code": "t",
+        "symbol": "t"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 5,
+    "fields": {
+        "modified_at": "2023-02-04T18:54:32.092Z",
+        "created_at": "2023-02-04T18:54:32.093Z",
+        "deleted_at": null,
+        "category": "dimension",
+        "name": "Metre",
+        "code": "m",
+        "symbol": "m"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 6,
+    "fields": {
+        "modified_at": "2023-02-04T18:56:33.109Z",
+        "created_at": "2023-02-04T18:56:33.109Z",
+        "deleted_at": null,
+        "category": "dimension",
+        "name": "Decimetre",
+        "code": "dm",
+        "symbol": "dm"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 7,
+    "fields": {
+        "modified_at": "2023-02-04T18:56:52.489Z",
+        "created_at": "2023-02-04T18:56:52.489Z",
+        "deleted_at": null,
+        "category": "dimension",
+        "name": "Centimetre",
+        "code": "cm",
+        "symbol": "cm"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 8,
+    "fields": {
+        "modified_at": "2023-02-04T18:57:21.662Z",
+        "created_at": "2023-02-04T18:57:21.662Z",
+        "deleted_at": null,
+        "category": "dimension",
+        "name": "Yard",
+        "code": "yd",
+        "symbol": "yd"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 9,
+    "fields": {
+        "modified_at": "2023-02-04T18:57:39.422Z",
+        "created_at": "2023-02-04T18:57:39.422Z",
+        "deleted_at": null,
+        "category": "dimension",
+        "name": "Foot",
+        "code": "ft",
+        "symbol": "ft"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 10,
+    "fields": {
+        "modified_at": "2023-02-04T18:57:58.295Z",
+        "created_at": "2023-02-04T18:57:58.295Z",
+        "deleted_at": null,
+        "category": "dimension",
+        "name": "Inch",
+        "code": "in",
+        "symbol": "in"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 11,
+    "fields": {
+        "modified_at": "2023-02-04T18:58:43.670Z",
+        "created_at": "2023-02-04T18:58:43.670Z",
+        "deleted_at": null,
+        "category": "weight",
+        "name": "Pound",
+        "code": "lb",
+        "symbol": "lb"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 12,
+    "fields": {
+        "modified_at": "2023-02-04T18:59:02.031Z",
+        "created_at": "2023-02-04T18:59:02.031Z",
+        "deleted_at": null,
+        "category": "weight",
+        "name": "Ounce",
+        "code": "oz",
+        "symbol": "oz"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 13,
+    "fields": {
+        "modified_at": "2023-02-04T19:01:01.679Z",
+        "created_at": "2023-02-04T19:01:01.679Z",
+        "deleted_at": null,
+        "category": "count",
+        "name": "Pieces",
+        "code": "pc",
+        "symbol": "pc"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 14,
+    "fields": {
+        "modified_at": "2023-02-04T19:01:23.822Z",
+        "created_at": "2023-02-04T19:01:23.822Z",
+        "deleted_at": null,
+        "category": "count",
+        "name": "Dozen",
+        "code": "dz",
+        "symbol": "dz"
+    }
+},
+{
+    "model": "common.metricunit",
+    "pk": 15,
+    "fields": {
+        "modified_at": "2023-02-04T19:01:42.833Z",
+        "created_at": "2023-02-04T19:01:42.833Z",
+        "deleted_at": null,
+        "category": "count",
+        "name": "Box",
+        "code": "Box",
+        "symbol": "Box"
+    }
+}
+]

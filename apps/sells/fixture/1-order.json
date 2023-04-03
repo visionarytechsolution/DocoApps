@@ -1,0 +1,42 @@
+[
+{
+    "model": "sells.order",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-05T14:15:48.652Z",
+        "created_at": "2023-02-05T14:12:59.934Z",
+        "deleted_at": null,
+        "tenant": "nVdFdE_esLXKvvHEzrP50AI2z9t76-sr",
+        "is_active": true,
+        "created_by": 2,
+        "order_id": "ORD--20230205-141548",
+        "buyer": 1,
+        "is_approved": false,
+        "approved_by": null,
+        "approved_at": "2023-02-05T14:15:48.652Z",
+        "comment": null,
+        "status": "CREATED",
+        "order_value": "0.00"
+    }
+},
+{
+    "model": "sells.order",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-05T14:18:06.566Z",
+        "created_at": "2023-02-05T14:18:06.566Z",
+        "deleted_at": null,
+        "tenant": "nVdFdE_esLXKvvHEzrP50AI2z9t76-sr",
+        "is_active": true,
+        "created_by": 2,
+        "order_id": "ORD-NFLT-20230205-141806",
+        "buyer": 1,
+        "is_approved": false,
+        "approved_by": null,
+        "approved_at": "2023-02-05T14:18:06.566Z",
+        "comment": null,
+        "status": "CREATED",
+        "order_value": "0.00"
+    }
+}
+]

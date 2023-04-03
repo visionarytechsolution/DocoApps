@@ -1,0 +1,41 @@
+[
+{
+    "model": "configuration.warehouseserviceability",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-27T20:35:15.824Z",
+        "created_at": "2023-02-27T20:35:15.824Z",
+        "deleted_at": null,
+        "tenant": "a8a83350-d42f-4657-9e71-40aeb84278fc",
+        "is_active": true,
+        "warehouse": 1,
+        "area": 1
+    }
+},
+{
+    "model": "configuration.warehouseserviceability",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-27T20:38:59.770Z",
+        "created_at": "2023-02-27T20:38:59.771Z",
+        "deleted_at": null,
+        "tenant": "a8a83350-d42f-4657-9e71-40aeb84278fc",
+        "is_active": true,
+        "warehouse": 1,
+        "area": 2
+    }
+},
+{
+    "model": "configuration.warehouseserviceability",
+    "pk": 3,
+    "fields": {
+        "modified_at": "2023-02-27T20:40:14.724Z",
+        "created_at": "2023-02-27T20:40:14.724Z",
+        "deleted_at": null,
+        "tenant": "a8a83350-d42f-4657-9e71-40aeb84278fc",
+        "is_active": true,
+        "warehouse": 1,
+        "area": 3
+    }
+}
+]

@@ -1,0 +1,258 @@
+[
+{
+    "model": "common.state",
+    "pk": 1,
+    "fields": {
+        "name": "Andhra Pradesh",
+        "code": "AD"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 2,
+    "fields": {
+        "name": "Arunachal Pradesh",
+        "code": "AR"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 3,
+    "fields": {
+        "name": "Assam",
+        "code": "AS"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 4,
+    "fields": {
+        "name": "Bihar",
+        "code": "BR"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 5,
+    "fields": {
+        "name": "Chattisgarh",
+        "code": "CG"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 6,
+    "fields": {
+        "name": "Delhi",
+        "code": "DL"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 7,
+    "fields": {
+        "name": "Goa",
+        "code": "GA"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 8,
+    "fields": {
+        "name": "Gujarat",
+        "code": "GJ"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 9,
+    "fields": {
+        "name": "Haryana",
+        "code": "HR"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 10,
+    "fields": {
+        "name": "Himachal Pradesh",
+        "code": "HP"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 11,
+    "fields": {
+        "name": "Jammu and Kashmir",
+        "code": "JK"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 12,
+    "fields": {
+        "name": "Jharkhand",
+        "code": "JH"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 13,
+    "fields": {
+        "name": "Karnataka",
+        "code": "KA"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 14,
+    "fields": {
+        "name": "Kerala",
+        "code": "KL"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 15,
+    "fields": {
+        "name": "Lakshadweep Islands",
+        "code": "LD"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 16,
+    "fields": {
+        "name": "Madhya Pradesh",
+        "code": "MP"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 17,
+    "fields": {
+        "name": "Maharashtra",
+        "code": "MH"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 18,
+    "fields": {
+        "name": "Manipur",
+        "code": "MN"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 19,
+    "fields": {
+        "name": "Meghalaya",
+        "code": "ML"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 20,
+    "fields": {
+        "name": "Mizoram",
+        "code": "MZ"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 21,
+    "fields": {
+        "name": "Nagaland",
+        "code": "NL"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 22,
+    "fields": {
+        "name": "Odisha",
+        "code": "OD"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 23,
+    "fields": {
+        "name": "Pondicherry",
+        "code": "PY"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 24,
+    "fields": {
+        "name": "Punjab",
+        "code": "PB"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 25,
+    "fields": {
+        "name": "Rajasthan",
+        "code": "RJ"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 26,
+    "fields": {
+        "name": "Sikkim",
+        "code": "SK"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 27,
+    "fields": {
+        "name": "Tamil Nadu",
+        "code": "TN"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 28,
+    "fields": {
+        "name": "Telangana",
+        "code": "TS"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 29,
+    "fields": {
+        "name": "Tripura",
+        "code": "TR"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 30,
+    "fields": {
+        "name": "Uttar Pradesh",
+        "code": "UP"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 31,
+    "fields": {
+        "name": "Uttarakhand",
+        "code": "UK"
+    }
+},
+{
+    "model": "common.state",
+    "pk": 32,
+    "fields": {
+        "name": "West Bengal",
+        "code": "WB"
+    }
+}
+]

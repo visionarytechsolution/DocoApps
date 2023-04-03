@@ -1,0 +1,12 @@
+[
+{
+    "model": "common.country",
+    "pk": 1,
+    "fields": {
+        "name": "India",
+        "code": "IN",
+        "alpha_three_code": "IND",
+        "currency_code": "INR"
+    }
+}
+]

@@ -1,0 +1,189 @@
+[
+{
+    "model": "common.productcategory",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.586Z",
+        "created_at": "2023-02-04T19:11:15.586Z",
+        "deleted_at": null,
+        "name": "Automotive and Transport",
+        "code": "47AL"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.589Z",
+        "created_at": "2023-02-04T19:11:15.589Z",
+        "deleted_at": null,
+        "name": "Business and Finance",
+        "code": "IIYY"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 3,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.590Z",
+        "created_at": "2023-02-04T19:11:15.590Z",
+        "deleted_at": null,
+        "name": "Chemicals and Materials",
+        "code": "1XYX"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 4,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.591Z",
+        "created_at": "2023-02-04T19:11:15.591Z",
+        "deleted_at": null,
+        "name": "Company Reports",
+        "code": "0WWJ"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 5,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.592Z",
+        "created_at": "2023-02-04T19:11:15.592Z",
+        "deleted_at": null,
+        "name": "Consumer Goods and Services",
+        "code": "YOPE"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 6,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.592Z",
+        "created_at": "2023-02-04T19:11:15.592Z",
+        "deleted_at": null,
+        "name": "Country Reports",
+        "code": "AXSQ"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 7,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.593Z",
+        "created_at": "2023-02-04T19:11:15.593Z",
+        "deleted_at": null,
+        "name": "Energy and Natural Resources",
+        "code": "GXLM"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 8,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.594Z",
+        "created_at": "2023-02-04T19:11:15.594Z",
+        "deleted_at": null,
+        "name": "Food and Beverage",
+        "code": "YXUK"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 9,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.595Z",
+        "created_at": "2023-02-04T19:11:15.595Z",
+        "deleted_at": null,
+        "name": "Government and Public Sector",
+        "code": "50FI"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 10,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.596Z",
+        "created_at": "2023-02-04T19:11:15.596Z",
+        "deleted_at": null,
+        "name": "Healthcare",
+        "code": "OKCC"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 11,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.597Z",
+        "created_at": "2023-02-04T19:11:15.597Z",
+        "deleted_at": null,
+        "name": "Humanities Books",
+        "code": "OAIS"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 12,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.598Z",
+        "created_at": "2023-02-04T19:11:15.598Z",
+        "deleted_at": null,
+        "name": "Industry Standards",
+        "code": "WZDK"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 13,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.599Z",
+        "created_at": "2023-02-04T19:11:15.599Z",
+        "deleted_at": null,
+        "name": "Manufacturing and Constructio",
+        "code": "DPNT"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 14,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.600Z",
+        "created_at": "2023-02-04T19:11:15.600Z",
+        "deleted_at": null,
+        "name": "Military Aerospace and Defens",
+        "code": "8HOZ"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 15,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.601Z",
+        "created_at": "2023-02-04T19:11:15.601Z",
+        "deleted_at": null,
+        "name": "Pharmaceuticals",
+        "code": "MPDV"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 16,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.602Z",
+        "created_at": "2023-02-04T19:11:15.602Z",
+        "deleted_at": null,
+        "name": "Science Books",
+        "code": "ZNFS"
+    }
+},
+{
+    "model": "common.productcategory",
+    "pk": 17,
+    "fields": {
+        "modified_at": "2023-02-04T19:11:15.603Z",
+        "created_at": "2023-02-04T19:11:15.603Z",
+        "deleted_at": null,
+        "name": "Telecommunications and Comput",
+        "code": "GU5L"
+    }
+}
+]

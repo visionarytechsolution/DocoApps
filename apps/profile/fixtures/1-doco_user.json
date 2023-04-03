@@ -1,0 +1,99 @@
+[
+{
+    "model": "profile.docouser",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$x6AxhowshokoZ24ASeBGVF$psDm9yylvWsGxn6Vszjm/DwNSl6HmpUzts6+zmkW9yI=",
+        "last_login": "2023-02-26T10:07:47Z",
+        "is_superuser": true,
+        "username": "amit",
+        "first_name": "",
+        "last_name": "",
+        "email": "amit@doco.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-02-26T10:07:22Z",
+        "type": "DOCO_ADMIN",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "profile.docouser",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$RYGBV7vEJwFBn2VQfrmajX$ou2qKlkB7EYJbUz69bg+n2kLDaQxn4zVOX0C3aBVS4c=",
+        "last_login": "2023-02-27T21:08:10.981Z",
+        "is_superuser": false,
+        "username": "docodist1",
+        "first_name": "Distributor",
+        "last_name": "One",
+        "email": "docodist1@doco.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-02-26T10:08:45Z",
+        "type": "DISTRIBUTOR",
+        "groups": [
+            1
+        ],
+        "user_permissions": []
+    }
+},
+{
+    "model": "profile.docouser",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$LmoMzmKY7wK6hxTNzRAyqu$fw/LhBtUkXbO/NRAZmLN/HZMI0AwaUyFBcqUFIIy50E=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "docoret1",
+        "first_name": "Retailer",
+        "last_name": "One",
+        "email": "docoret1@doco.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-02-26T10:09:32Z",
+        "type": "RETAILER",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "profile.docouser",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$cTLqC7i883XeMkyRQrAD4F$vcVvEGY6A3npQ00a3qdDLMnZPLtrGR1vJR3k5XfarIc=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "ret-emp1",
+        "first_name": "Employee",
+        "last_name": "Ret One",
+        "email": "ret-emp1@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-02-26T10:10:25Z",
+        "type": "EMPLOYEE",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "profile.docouser",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$BOtcPPxyA4Ii0jB8UxOv7Z$d16dWx/N/0tC/ObbNTVcQQPWHEXI9Xmhfmjx494LFiA=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "dist-emp1",
+        "first_name": "Employee",
+        "last_name": "Dist One",
+        "email": "dist-emp1@doco.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-02-26T10:11:16Z",
+        "type": "EMPLOYEE",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

@@ -1,0 +1,40 @@
+[
+{
+    "model": "profile.businessprofile",
+    "pk": 1,
+    "fields": {
+        "modified_at": "2023-02-26T10:13:58.404Z",
+        "created_at": "2023-02-26T10:13:58.404Z",
+        "deleted_at": null,
+        "profile_id": "d10c648e-4c2d-4b25-a581-335d5cb28ac7",
+        "type": "DISTRIBUTOR",
+        "name": "Doco Distributor 1",
+        "address": null,
+        "contact_person_name": "Doco Dist",
+        "contact_person_designation": "Owner",
+        "phone_number": "+918456789876",
+        "email": "doco-dist1@doco.com",
+        "number_verified": true,
+        "email_verified": false
+    }
+},
+{
+    "model": "profile.businessprofile",
+    "pk": 2,
+    "fields": {
+        "modified_at": "2023-02-26T10:14:45.663Z",
+        "created_at": "2023-02-26T10:14:45.663Z",
+        "deleted_at": null,
+        "profile_id": "19479f96-29b9-4808-bb70-77bc7beb8530",
+        "type": "RETAILER",
+        "name": "Doco Retailer 1",
+        "address": null,
+        "contact_person_name": "Doco Retailer One",
+        "contact_person_designation": "Owner",
+        "phone_number": "+918678987098",
+        "email": "doco-ret1@doco.com",
+        "number_verified": true,
+        "email_verified": false
+    }
+}
+]
